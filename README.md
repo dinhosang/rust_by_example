@@ -1,0 +1,2 @@
+-   Create a binary by using: rustc ./src/main.rs
+    -   can then run by using: ./main
